@@ -1,0 +1,20 @@
+body{
+    width: 100%;
+    
+    margin: auto;
+}
+
+.div h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head2{
+    margin-bottom: 180px;
+}
+
+.head1{
+    margin-top: 180px;
+}
